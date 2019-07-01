@@ -298,10 +298,10 @@
     <string-array name="multimediaOptions_with_price_text">
         <item>Position</item>
         <item>Caméra</item>
-        <item>Fichier</item>
         <item>Audio</item>
         <item>Vidéo</item>
-        <item>Contact</item>
+        <item>SL2T</item>
+        <item>T2SL</item>
         <item>Prix</item>
     </string-array>
 
